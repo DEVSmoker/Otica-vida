@@ -1,4 +1,4 @@
-                                                                                           ## Oticas Vida
+## Oticas Vida
  
 ![image](https://github.com/DEVSmoker/Otica-vida/assets/123115990/937e1b69-d499-41e3-bbec-b6c1e6e4ed4b)
 
